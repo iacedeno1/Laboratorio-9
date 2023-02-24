@@ -174,14 +174,14 @@ Ejercicio d:
 
 Ejercicio a:
 
-
+![image](https://user-images.githubusercontent.com/117695777/221111546-762c9035-dc82-4b79-807b-680a8dbac163.png)
 
 Ejercicio b:
 
 
 Ejercicio c:
 
-
+![image](https://user-images.githubusercontent.com/117695777/221112236-a8b34918-b494-4e96-91fc-297d33f79a2d.png)
 
 # 5. VIDEO.-
 
