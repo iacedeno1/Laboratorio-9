@@ -132,19 +132,19 @@ Ahora un numero complejo se puede expresar en dos sistemas coordenados: Cartesia
 
 Ejercicio a:
 
-
+![image](https://user-images.githubusercontent.com/117695777/221099303-3b47f52e-8c71-4e40-9c84-43f7a745f750.png)
 
 Ejercicio b:
 
-
+![image](https://user-images.githubusercontent.com/117695777/221099440-c8eedad3-116f-47d6-9e58-1ad768e08fa8.png)
 
 Ejercicio c:
 
-
+![image](https://user-images.githubusercontent.com/117695777/221099570-e734b75f-260c-46d4-abdd-847e3f4f31f1.png)
 
 Ejercicio d:
 
-
+![image](https://user-images.githubusercontent.com/117695777/221099692-51115d8a-53f7-4068-9e3f-d401c3a935a4.png)
 
 * Transforme a su forma rectangular:
 
@@ -178,7 +178,7 @@ Ejercicio c:
 
 # 5. VIDEO.-
 
-https://youtu.be/miY5EA_ssVM
+
 
  # 6.	CONCLUSIONES.-
  
