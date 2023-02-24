@@ -176,7 +176,12 @@ Ejercicio a:
 
 ![image](https://user-images.githubusercontent.com/117695777/221111546-762c9035-dc82-4b79-807b-680a8dbac163.png)
 
+
 Ejercicio b:
+
+
+![image](https://user-images.githubusercontent.com/116813743/221115980-f559c7f5-94e7-44ab-b2d0-07752085e028.png)
+
 
 
 Ejercicio c:
