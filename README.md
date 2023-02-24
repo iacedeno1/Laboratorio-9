@@ -150,10 +150,13 @@ Ejercicio d:
 
 Ejercicio a:
 
+![image](https://user-images.githubusercontent.com/116813743/221108719-12a45279-1821-4df9-b0fe-5d2ff5b0ca9d.png)
+
 
 
 Ejercicio b:
 
+![image](https://user-images.githubusercontent.com/116813743/221108810-8122bf43-5585-473a-8705-9a96965773c4.png)
 
 
 Ejercicio c:
