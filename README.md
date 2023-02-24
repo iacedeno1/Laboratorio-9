@@ -150,7 +150,7 @@ Ejercicio d:
 
 Ejercicio a:
 
-
+![image](https://user-images.githubusercontent.com/117695777/221100323-7092902e-f9bd-4d0c-999c-7fa959260e4d.png)
 
 Ejercicio b:
 
