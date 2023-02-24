@@ -132,25 +132,25 @@ Ahora un numero complejo se puede expresar en dos sistemas coordenados: Cartesia
 
 Ejercicio a:
 
-![image](https://user-images.githubusercontent.com/117695777/221099303-3b47f52e-8c71-4e40-9c84-43f7a745f750.png)
+![image](https://user-images.githubusercontent.com/117695777/221106704-88ecdbbb-21ab-4e61-9a93-584cfc2dd4c7.png)
 
 Ejercicio b:
 
-![image](https://user-images.githubusercontent.com/117695777/221099440-c8eedad3-116f-47d6-9e58-1ad768e08fa8.png)
+![image](https://user-images.githubusercontent.com/117695777/221106862-b6d0ec25-a7b2-4fea-832e-311127ae3574.png)
 
 Ejercicio c:
 
-![image](https://user-images.githubusercontent.com/117695777/221099570-e734b75f-260c-46d4-abdd-847e3f4f31f1.png)
+![image](https://user-images.githubusercontent.com/117695777/221107004-ae9b738e-8753-4112-97e1-839c356a20b8.png)
 
 Ejercicio d:
 
-![image](https://user-images.githubusercontent.com/117695777/221099692-51115d8a-53f7-4068-9e3f-d401c3a935a4.png)
+![image](https://user-images.githubusercontent.com/117695777/221107371-87f344f5-8646-4aa6-bcba-fd44970d50a1.png)
 
 * Transforme a su forma rectangular:
 
 Ejercicio a:
 
-![image](https://user-images.githubusercontent.com/117695777/221100323-7092902e-f9bd-4d0c-999c-7fa959260e4d.png)
+
 
 Ejercicio b:
 
