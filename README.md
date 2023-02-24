@@ -161,8 +161,12 @@ Ejercicio b:
 
 Ejercicio c:
 
+![image](https://user-images.githubusercontent.com/116813743/221109118-32a06318-9347-4e66-90cf-d515c81966af.png)
+
 
 Ejercicio d:
+
+![image](https://user-images.githubusercontent.com/116813743/221109149-9f4f8440-9fa0-48a9-9344-2b413f59855e.png)
 
 
 
